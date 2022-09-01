@@ -10,6 +10,8 @@ This project involves the interfacing of a pressure sensor and a LCD display to 
 * BMP180 Pressure sensor
 
 ### circuit diagram: 
+![Pressure sensor and display](https://user-images.githubusercontent.com/86454491/187855016-2368bf14-68a1-4cfd-9dfc-6133af256267.png)
+
 
 
 
