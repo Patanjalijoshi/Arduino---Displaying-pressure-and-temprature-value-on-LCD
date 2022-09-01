@@ -1,5 +1,5 @@
 # Arduino---Displaying-pressure-value-on-LCD
-This project involves the interfacing of a pressure sensor and a LCD display to display the pressure reading. 
+This project involves the interfacing of a pressure & temprature sensor and a LCD display to display the pressure reading. 
 
 
 
