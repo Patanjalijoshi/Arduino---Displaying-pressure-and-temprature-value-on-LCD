@@ -18,4 +18,10 @@ This project involves the interfacing of a pressure & temprature sensor and a LC
 ### Code details:
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
 
-### Picture of the operation:
+### Operation:
+** video:
+[](../../Users/joshi/OneDrive/Desktop/Operation%20vid.mp4)
+
+
+** Picture of error message if sensor is not transmitting:
+![](../../Users/joshi/OneDrive/Desktop/error%20message.jpeg)
