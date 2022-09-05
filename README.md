@@ -20,6 +20,7 @@ The code is written in C and the Arduino IDE is used to compile and write code o
 
 ### Operation:
 ** video:
+
 https://user-images.githubusercontent.com/86454491/188464808-684c11e1-2d6a-4678-94d8-9646924cb80e.mp4
 
 
