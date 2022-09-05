@@ -20,8 +20,8 @@ The code is written in C and the Arduino IDE is used to compile and write code o
 
 ### Operation:
 ** video:
-[](../../Users/joshi/OneDrive/Desktop/Operation%20vid.mp4)
+https://user-images.githubusercontent.com/86454491/188464808-684c11e1-2d6a-4678-94d8-9646924cb80e.mp4
 
 
 ** Picture of error message if sensor is not transmitting:
-![](../../Users/joshi/OneDrive/Desktop/error%20message.jpeg)
+![error message](https://user-images.githubusercontent.com/86454491/188464866-024faaa9-4005-4baf-8d45-3517430f1f6a.jpeg)
